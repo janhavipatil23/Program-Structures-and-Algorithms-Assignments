@@ -1,4 +1,4 @@
-# Program-Structures-and-Algorithms-Assignments
+# Program-Structures-and-Algorithms-Assignment
 
 PSA Assignment 3
 
